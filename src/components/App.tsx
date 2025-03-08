@@ -22,7 +22,7 @@ export function App() {
       <footer className='mt-auto pt-8 text-gray-500 text-center text-sm'>
         <p>Datos obtenidos de la API de Mojang</p>
         <p className='mt-1'>Visualizador 3D creado con Lunar Eclipse API</p>
-      </footer>Three
+      </footer>
     </main>
   )
 }
