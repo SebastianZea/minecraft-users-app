@@ -51,6 +51,8 @@ const poses = [
   "archer",
   "kicking",
   "reading",
+  "bitzel",
+  "mojavatar",
 ]
 
 export function MinecraftProfile({ profileData }: MinecraftProfileProps) {
