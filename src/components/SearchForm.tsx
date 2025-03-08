@@ -43,7 +43,7 @@ export function SearchForm() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center gap-4 px-6 py-8 bg-primary border-2 border-secondary shadow-md text-white w-[256px] sm:w-[380px] md:w-full mx-auto md:mx-0">
+    <div className="flex flex-col items-center justify-center gap-4 px-10 py-8 bg-primary border-2 border-secondary shadow-md text-white mx-auto">
       <header>
         <h3 className="text-xl text-center font-minecraft">Buscar Perfil</h3>
         <p className="text-sm text-center text-gray-400 italic">
