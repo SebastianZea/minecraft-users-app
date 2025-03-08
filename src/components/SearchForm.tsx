@@ -52,7 +52,7 @@ export function SearchForm() {
       </header>
 
       <form
-        className="flex flex-col items-center gap-6 w-full"
+        className="flex flex-col items-center gap-6"
         onSubmit={handleSubmit(onSubmit)}
       >
         <label className="block w-full">
